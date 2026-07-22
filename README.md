@@ -1,8 +1,8 @@
 ## Hi, I'm Izhan Afif 
 
-🎮 Computer Science Student
-📍 Malaysia
-🌱 Learning blender & Unreal Engine
+🎮 Computer Science Student<br>
+📍 Malaysia<br>
+🌱 Learning Blender & Unreal Engine
 
 I'm an aspiring game programmer with a strong interest and skills on Gameplay Programming and Tools Programming. I enjoy building game systems, editor tools, and learning how game engines work especially using C++ and C#.
 
