@@ -4,7 +4,7 @@
 📍 Malaysia<br>
 🌱 Learning Blender & Unreal Engine
 
-I'm an aspiring Game Programmer passionate about Gameplay Programming and Tools Programming. I enjoy building game systems, editor tools, and exploring how game engines work using C++ and C#.
+I'm an aspiring Game Programmer passionate about Gameplay Programming and Tools Programming. I enjoy building game systems, editor tools, and exploring how game engines work especially using C++ and C#.
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
