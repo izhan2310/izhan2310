@@ -23,6 +23,8 @@ I'm an aspiring Game Programmer passionate about Gameplay Programming and Tools 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge)
 
 <h2>🚀 Featured Projects</h2>
 
