@@ -24,23 +24,31 @@ I'm an aspiring Game Programmer passionate about Gameplay Programming and Tools 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-### 🦈 Tideborn
-*A 2D survival game inspired by Feeding Frenzy.*
-
-**Built with:** GDevelop
-(link)
-
-
-### 🧛 Mayhemoji
-*A 2D survival game inspired by Vampire Survivors.*
-
-**Built with:** GDevelop
-(link)
-
-### 🧩 SFML Tetris
-*A classic Tetris clone built in C++ using SFML.*
-
-**Built with:** C++ & SFML
-(link)
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Built With</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🦈 Tideborn</strong></td>
+      <td>A 2D survival game inspired by <em>Feeding Frenzy</em>. Players survive waves of enemies while exploring an ocean-themed world.</td>
+      <td>GDevelop</td>
+    </tr>
+    <tr>
+      <td><strong>🧛 Mayhemoji</strong></td>
+      <td>A 2D survival game inspired by <em>Vampire Survivors</em>. Defeat enemies, collect upgrades, and survive as long as possible.</td>
+      <td>GDevelop</td>
+    </tr>
+    <tr>
+      <td><strong>🧩 SFML Tetris</strong></td>
+      <td>A classic Tetris clone featuring line clearing, collision detection, scoring, and smooth gameplay.</td>
+      <td>C++ &amp; SFML</td>
+    </tr>
+  </tbody>
+</table>
