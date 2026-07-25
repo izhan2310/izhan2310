@@ -15,7 +15,6 @@ I'm an aspiring Game Programmer passionate about Gameplay Programming and Tools 
 
 ### Game Development
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
 ![GDevelop](https://img.shields.io/badge/GDevelop-6F42C1?style=for-the-badge&logo=gdevelop&logoColor=white)
 
 ### Tools
